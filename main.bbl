@@ -19,71 +19,150 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Yang:2014}{article}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+    \entry{Yang:2014}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=dc2a38641794f0b04fb36e02d4d3d2e8}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiaoming},
+           giveni={X\bibinitperiod}}}%
+        {{hash=fcc1b99b0c8fb627cea2592a592d6595}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Yawen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4c958aabe06b6460dda614d8ce063e2a}{%
+           family={Zhuo},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ef691b2ae809a7c46f021116499706cd}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Yuanjiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ab1b35e2ae79c73ac769f42a2bab9ab6}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Shanshan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{b39f7c56185e14e5ec3a3e5536bd4ef6}
+      \strng{authornamehash}{278adf28617bc53ff115710b41756a3e}
+      \strng{authorfullhash}{6efd37c9da015531c5c71642fde9424a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Analytica Chimica Acta.}
+      \field{issn}{0003-2670}
+      \field{journaltitle}{Analytica Chimica Acta}
       \field{title}{Novel synthesis of gold nanoclusters templated with l-tyrosine for selective analyzing tyrosinase}
       \field{year}{2014}
       \field{pages}{87\bibrangedash 92}
       \range{pages}{6}
       \field{volume}{840}
       \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.aca.2014.05.050
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0003267014006874
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0003267014006874
+      \endverb
+      \keyw{Tyrosine,Gold nanoclusters,Tyrosinase,Fluorescence quenching}
     \endentry
-    \entry{Elkhatat:2021}{article}{}
-      \name{author}{1}{}{%
-        {{hash=cc4afc520e171e347972bc2c97103295}{%
-           family={др.},
-           familyi={д\bibinitperiod},
-           given={Elkhatat\bibnamedelimb A.\bibnamedelimi M.},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod},
-           prefix={и},
-           prefixi={и\bibinitperiod}}}%
+    \entry{Elkhatat:2021}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=debcd0da36d1f8066ce0c56a40cbd948}{%
+           family={Elkhatat},
+           familyi={E\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=63d872ee28199ae80d0b636767ea9489}{%
+           family={Soliman},
+           familyi={S\bibinitperiod},
+           given={Mariam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=25bd58202662d63bf55516858fc3b265}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Rim},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b4d853dab070eb77a478be7aa831bedc}{%
+           family={Elbashir},
+           familyi={E\bibinitperiod},
+           given={Somaya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dde9322b5124e406b4d75dbaedc07ccb}{%
+           family={Abounahia},
+           familyi={A\bibinitperiod},
+           given={Nada},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8310368878c10bcb1cb8d0d0cfe29c37}{%
+           family={Mubashir},
+           familyi={M\bibinitperiod},
+           given={Shamna},
+           giveni={S\bibinitperiod}}}%
+        {{hash=45624206b90591eef09888a625f1b735}{%
+           family={Fouladi},
+           familyi={F\bibinitperiod},
+           given={Sohila},
+           giveni={S\bibinitperiod}}}%
+        {{hash=93a8bafad34240bf7d205a048bbf9b7f}{%
+           family={Khraisheh},
+           familyi={K\bibinitperiod},
+           given={Majeda},
+           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{cc4afc520e171e347972bc2c97103295}
-      \strng{fullhash}{cc4afc520e171e347972bc2c97103295}
-      \strng{bibnamehash}{cc4afc520e171e347972bc2c97103295}
-      \strng{authorbibnamehash}{cc4afc520e171e347972bc2c97103295}
-      \strng{authornamehash}{cc4afc520e171e347972bc2c97103295}
-      \strng{authorfullhash}{cc4afc520e171e347972bc2c97103295}
-      \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
+      \strng{authorbibnamehash}{5e79f888043b392a04dc58f3c2c21adb}
+      \strng{authornamehash}{e424685b02d9121172d6e9858013983d}
+      \strng{authorfullhash}{6afe0f46241215275336edd668f841f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Bull Natl Res Cent.}
+      \field{journaltitle}{Bulletin of the National Research Centre}
+      \field{month}{12}
       \field{title}{Recent trends of copper detection in water samples}
       \field{year}{2021}
-      \field{number}{1}
-      \range{number}{1}
       \field{pages}{218}
       \range{pages}{1}
       \field{volume}{45}
       \range{volume}{1}
+      \verb{doi}
+      \verb 10.1186/s42269-021-00677-w
+      \endverb
     \endentry
-    \entry{Zhou:2024}{article}{}
-      \name{author}{1}{}{%
-        {{hash=1317c2a3b6a43468eb187dd80b7108d4}{%
-           family={др.},
-           familyi={д\bibinitperiod},
-           given={Zhou\bibnamedelima X.},
-           giveni={Z\bibinitperiod\bibinitdelim X\bibinitperiod},
-           prefix={и},
-           prefixi={и\bibinitperiod}}}%
+    \entry{Zhou:2024}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=49aa212536cc55cbf1c9f1635e9dd25a}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaomeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=42774acb635cee21bd42fd6a8a278ff7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Saijin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3aa2ef6b40963a7984252d611187cf4}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wenfeng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=26ec9fc7d7f63944f2db65719eb3c384}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
       }
-      \strng{namehash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \strng{fullhash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \strng{bibnamehash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \strng{authorbibnamehash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \strng{authornamehash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \strng{authorfullhash}{1317c2a3b6a43468eb187dd80b7108d4}
-      \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
+      \strng{authorbibnamehash}{f178e62dc5ac195010bd5b4bda8fb38c}
+      \strng{authornamehash}{0c601bb440e1f8d2fc646fbef426c8d7}
+      \strng{authorfullhash}{9c60308372dfda4ad3bc326f5429120d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Anal. Chem.}
+      \field{journaltitle}{Analytical Chemistry}
       \field{title}{Metal Ion-Regulated Fluorescent Sensor Array Based on Gold Nanoclusters for Physiological Phosphate Sensing}
       \field{year}{2024}
       \field{number}{10}
@@ -92,6 +171,9 @@
       \range{pages}{8}
       \field{volume}{96}
       \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/acs.analchem.3c05582
+      \endverb
     \endentry
     \entry{Bond:1983}{article}{}
       \name{author}{1}{}{%
@@ -107,8 +189,8 @@
       \strng{authorbibnamehash}{86945c34ce85383f0ea73c12533e73cc}
       \strng{authornamehash}{86945c34ce85383f0ea73c12533e73cc}
       \strng{authorfullhash}{86945c34ce85383f0ea73c12533e73cc}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Anal. Chem.}
@@ -119,6 +201,310 @@
       \field{pages}{4224\bibrangedash 4231}
       \range{pages}{8}
       \field{volume}{55}
+      \range{volume}{1}
+    \endentry
+    \entry{Song:2016}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=761ede6f4f483c8a1529049616b94fcc}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Xiao-Rong},
+           giveni={X\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=e65f80a100e441acc9698ecb542d8fdf}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={Nirmal},
+           giveni={N\bibinitperiod}}}%
+        {{hash=fd6c0b7a568c3da63b57128b7ebfe115}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huang-Hao},
+           giveni={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=fc430a61917a56aea1799b19648125c1}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{authorbibnamehash}{969d264c5c80938d32d6b7c1111a59fd}
+      \strng{authornamehash}{bcc2ed76ad5a695008c05c11d9698e0f}
+      \strng{authorfullhash}{e86005e2b2580e39fd2418680b4c8391}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analyst}
+      \field{title}{Functionalization of metal nanoclusters for biomedical applications}
+      \field{year}{2016}
+      \field{issue}{11}
+      \range{issue}{1}
+      \field{pages}{3126\bibrangedash 3140}
+      \range{pages}{15}
+      \field{volume}{141}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/C6AN00773B
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/C6AN00773B
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/C6AN00773B
+      \endverb
+    \endentry
+    \entry{Ding:2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cadfb3c8b624e050874a32bc3cd292a4}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1dc81ce71e496df2c6662bde6f29a6c7}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{86925068d6309f57dad75f8ea2dd22d9}
+      \strng{fullhash}{86925068d6309f57dad75f8ea2dd22d9}
+      \strng{bibnamehash}{86925068d6309f57dad75f8ea2dd22d9}
+      \strng{authorbibnamehash}{86925068d6309f57dad75f8ea2dd22d9}
+      \strng{authornamehash}{86925068d6309f57dad75f8ea2dd22d9}
+      \strng{authorfullhash}{86925068d6309f57dad75f8ea2dd22d9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanotheranostics}
+      \field{month}{01}
+      \field{title}{Nanotheranostic Application of Fluorescent Protein-Gold Nanocluster Hybrid Materials: A Mini-review}
+      \field{year}{2021}
+      \field{pages}{461\bibrangedash 471}
+      \range{pages}{11}
+      \field{volume}{5}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.7150/ntno.58060
+      \endverb
+    \endentry
+    \entry{Chakraborty:2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=47966bbd84cc05e8d7b867d1e3eeceda}{%
+           family={Chakraborty},
+           familyi={C\bibinitperiod},
+           given={Indranath},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5b34e08ae29252f57f7117dd7c91710a}{%
+           family={Pradeep},
+           familyi={P\bibinitperiod},
+           given={Thalappil},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{de245f2b858381153c2440fc02bf3bce}
+      \strng{fullhash}{de245f2b858381153c2440fc02bf3bce}
+      \strng{bibnamehash}{de245f2b858381153c2440fc02bf3bce}
+      \strng{authorbibnamehash}{de245f2b858381153c2440fc02bf3bce}
+      \strng{authornamehash}{de245f2b858381153c2440fc02bf3bce}
+      \strng{authorfullhash}{de245f2b858381153c2440fc02bf3bce}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Reviews}
+      \field{title}{Atomically Precise Clusters of Noble Metals: Emerging Link between Atoms and Nanoparticles}
+      \field{year}{2017}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{8208\bibrangedash 8271}
+      \range{pages}{64}
+      \field{volume}{117}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.6b00769
+      \endverb
+    \endentry
+    \entry{Kawasaki:2011}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=b686ed09a05f6b43b0931d05997c9171}{%
+           family={Kawasaki},
+           familyi={K\bibinitperiod},
+           given={Hideya},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0fcd6f699ec59de03127e6fa94340146}{%
+           family={Hamaguchi},
+           familyi={H\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ff2d977f73c7805fcc4288c973f31626}{%
+           family={Osaka},
+           familyi={O\bibinitperiod},
+           given={Issey},
+           giveni={I\bibinitperiod}}}%
+        {{hash=e077de435cd01a8f75fa1c05933aecf8}{%
+           family={Arakawa},
+           familyi={A\bibinitperiod},
+           given={Ryuichi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{authorbibnamehash}{b93fc18b0d6955020aa0a17bb745a878}
+      \strng{authornamehash}{6f773d6c5b686b1f4ba8857ddc249a84}
+      \strng{authorfullhash}{3fa71d553261e39c05d084f060222e59}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Functional Materials}
+      \field{title}{ph-Dependent synthesis of pepsin-mediated gold nanoclusters with blue green and red fluorescent emission}
+      \field{year}{2011}
+      \field{number}{18}
+      \range{number}{1}
+      \field{pages}{3508\bibrangedash 3515}
+      \range{pages}{8}
+      \field{volume}{21}
+      \range{volume}{1}
+    \endentry
+    \entry{Baksi:2013}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=e14929ae6bc207b9683bc31e2607b36d}{%
+           family={Baksi},
+           familyi={B\bibinitperiod},
+           given={Ananya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=72f0992641ec451f2ae843f8bab675a6}{%
+           family={Xavier},
+           familyi={X\bibinitperiod},
+           given={Paulrajpillai\bibnamedelima Lourdu},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d14c63abde54474d604270fe9062a466}{%
+           family={Chaudhari},
+           familyi={C\bibinitperiod},
+           given={Kamalesh},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ac9cfe45c86f8909aca589f7d3be5012}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7e85ecb3676082b4f83a21fd80ff1f24}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={SK},
+           giveni={S\bibinitperiod}}}%
+        {{hash=10cd284039886aa134fd498c90d611d4}{%
+           family={Pradeep},
+           familyi={P\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{authorbibnamehash}{d9e57200f021d4f16f1b55f1c412cbc1}
+      \strng{authornamehash}{ce604adf03a213b1f2cfd0692e5ee776}
+      \strng{authorfullhash}{9a0655d466923ad2357339dcd11db8da}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanoscale}
+      \field{title}{Protein-encapsulated gold cluster aggregates: the case of lysozyme}
+      \field{year}{2013}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{2009\bibrangedash 2016}
+      \range{pages}{8}
+      \field{volume}{5}
+      \range{volume}{1}
+    \endentry
+    \entry{Xavier:2010}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=72f0992641ec451f2ae843f8bab675a6}{%
+           family={Xavier},
+           familyi={X\bibinitperiod},
+           given={Paulrajpillai\bibnamedelima Lourdu},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=d14c63abde54474d604270fe9062a466}{%
+           family={Chaudhari},
+           familyi={C\bibinitperiod},
+           given={Kamalesh},
+           giveni={K\bibinitperiod}}}%
+        {{hash=904b17bfabdb934cc04d738d8cf636e4}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Pramod\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=433e5e765a669995405d424eef520015}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Samir\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5b34e08ae29252f57f7117dd7c91710a}{%
+           family={Pradeep},
+           familyi={P\bibinitperiod},
+           given={Thalappil},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{authorbibnamehash}{37748dc9db889f8d0c143cf1fdb2a314}
+      \strng{authornamehash}{d938b7c48a13422a09114ed00488f61d}
+      \strng{authorfullhash}{6baefff2e3b1939fedfc3f79441e91d3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanoscale}
+      \field{title}{Luminescent quantum clusters of gold in transferrin family protein, lactoferrin exhibiting FRET}
+      \field{year}{2010}
+      \field{number}{12}
+      \range{number}{1}
+      \field{pages}{2769\bibrangedash 2776}
+      \range{pages}{8}
+      \field{volume}{2}
+      \range{volume}{1}
+    \endentry
+    \entry{Xie:2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fc430a61917a56aea1799b19648125c1}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4eb5ba80721c8614df5c1b1dcbfacb11}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Yuangang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5ea321e21324149d140850d1ce316df5}{%
+           family={Ying},
+           familyi={Y\bibinitperiod},
+           given={Jackie\bibnamedelima Y},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{cd9a276487e2bfc78487f709c03fc303}
+      \strng{fullhash}{715936bd98ce6c25ae0f58827c958bf9}
+      \strng{bibnamehash}{715936bd98ce6c25ae0f58827c958bf9}
+      \strng{authorbibnamehash}{715936bd98ce6c25ae0f58827c958bf9}
+      \strng{authornamehash}{cd9a276487e2bfc78487f709c03fc303}
+      \strng{authorfullhash}{715936bd98ce6c25ae0f58827c958bf9}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{title}{Protein-directed synthesis of highly fluorescent gold nanoclusters}
+      \field{year}{2009}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{888\bibrangedash 889}
+      \range{pages}{2}
+      \field{volume}{131}
       \range{volume}{1}
     \endentry
     \entry{Díez2010}{inbook}{}
@@ -156,11 +542,10 @@
       \strng{editorbibnamehash}{9f41f601181efa65bc4373382f696cce}
       \strng{editornamehash}{9f41f601181efa65bc4373382f696cce}
       \strng{editorfullhash}{9f41f601181efa65bc4373382f696cce}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Silver clusters, composed of only a few silver atoms, have remarkable optical properties based on electronic transitions between quantized energy levels. They have large absorption coefficients and fluorescence quantum yields, in common with conventional fluorescent markers. But importantly, silver clusters have an attractive set of features, including subnanometer size, nontoxicity and photostability, which makes them competitive as fluorescent markers compared with organic dye molecules and semiconductor quantum dots. In this chapter, we review the synthesis and properties of fluorescent silver clusters, and their application as bio-labels and molecular sensors. Silver clusters may have a bright future as luminescent probes for labeling and sensing applications.}
       \field{booktitle}{Advanced Fluorescence Reporters in Chemistry and Biology II: Molecular Constructions, Polymers and Nanoparticles}
       \field{isbn}{978-3-642-04701-5}
       \field{title}{Few-Atom Silver Clusters as Fluorescent Reporters}
@@ -177,41 +562,864 @@
       \verb https://doi.org/10.1007/978-3-642-04701-5_10
       \endverb
     \endentry
-    \entry{sych:2024}{article}{}
+    \entry{sych2023luminescent}{thesis}{}
       \name{author}{1}{}{%
-        {{hash=5ce476ccdd32c1b1eeac0d1ba2245ad0}{%
-           family={Sych},
-           familyi={S\bibinitperiod},
-           given={T.\bibnamedelimi S.\bibnamedelimi et\bibnamedelima al.},
-           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=bc355c656dd9cbdf09c57aa530d1dd3b}{%
+           family={Сыч},
+           familyi={С\bibinitperiod},
+           given={Томаш\bibnamedelima Сергеевич},
+           giveni={Т\bibinitperiod\bibinitdelim С\bibinitperiod}}}%
       }
-      \strng{namehash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
-      \strng{fullhash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
-      \strng{bibnamehash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
-      \strng{authorbibnamehash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
-      \strng{authornamehash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
-      \strng{authorfullhash}{5ce476ccdd32c1b1eeac0d1ba2245ad0}
+      \list{institution}{1}{%
+        {Санкт-Петербургский государственный университет}%
+      }
+      \list{language}{1}{%
+        {russian}%
+      }
+      \list{location}{1}{%
+        {Санкт-Петербург}%
+      }
+      \strng{namehash}{bc355c656dd9cbdf09c57aa530d1dd3b}
+      \strng{fullhash}{bc355c656dd9cbdf09c57aa530d1dd3b}
+      \strng{bibnamehash}{bc355c656dd9cbdf09c57aa530d1dd3b}
+      \strng{authorbibnamehash}{bc355c656dd9cbdf09c57aa530d1dd3b}
+      \strng{authornamehash}{bc355c656dd9cbdf09c57aa530d1dd3b}
+      \strng{authorfullhash}{bc355c656dd9cbdf09c57aa530d1dd3b}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Anal. Methods}
-      \field{title}{Amino acid-stabilized luminescent gold clusters for sensing pterin and its analogues}
-      \field{year}{2024}
-      \field{number}{27}
+      \field{specialitycode}{1.3.8}
+      \field{title}{Люминесцентные кластеры благородных металлов, стабилизированные белковыми матрицами: фотофизические и структурные свойства, практические применения}
+      \field{type}{Диссертация на соискание ученой степени кандидата физико-математических наук}
+      \field{year}{2023}
+    \endentry
+    \entry{https://doi.org/10.1002/smll.201403481}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=32f1e767e9cac494d1e1943e2508ad38}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Liyun},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2ae9cec5bb9d1791f9450ee7e59789e3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mulin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a44c3dffdeab4748f9387da05b041ac}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5c4dafc83f1731f1611996d8d25bf45a}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Guanxin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0b8c6eca97bace4a4bdd4a5736ff99e7}{%
+           family={Tu},
+           familyi={T\bibinitperiod},
+           given={Yating},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=62dec400353f9194fa5f64c4d21de427}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jintao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=44c3b5c52e623210a7b04823782158f1}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{fe2559545f9aa1a3aec7580e58510662}
+      \strng{authornamehash}{575ddf6fbb7c0856404daf5023c8f810}
+      \strng{authorfullhash}{39ef8efd60a1094a5c8732acd72e9db5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Small}
+      \field{title}{Cytotoxicity of BSA-Stabilized Gold Nanoclusters: In Vitro and In Vivo Study}
+      \field{year}{2015}
+      \field{number}{21}
       \range{number}{1}
+      \field{pages}{2571\bibrangedash 2581}
+      \range{pages}{11}
+      \field{volume}{11}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/smll.201403481
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.201403481
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201403481
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201403481
+      \endverb
+      \keyw{bovine serum albumin,cytotoxicity,gold nanoclusters,in vitro,in vivo,reactive oxygen species}
+    \endentry
+    \entry{sych:2024}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=0515c5dfced78f10c92e13e6344715c0}{%
+           family={Sych},
+           familyi={S\bibinitperiod},
+           given={Tomash},
+           giveni={T\bibinitperiod}}}%
+        {{hash=61dd8a39d40ce07f0314fa9c3e63ac03}{%
+           family={Shekhovtsov},
+           familyi={S\bibinitperiod},
+           given={Nikolai},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3613f733cc4c5c3d4a97e6a52e01c89a}{%
+           family={Buglak},
+           familyi={B\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8192925a69a3597ae58e8f482ad8c4c3}{%
+           family={Kononov},
+           familyi={K\bibinitperiod},
+           given={Alexei},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{9c12c7764168189fa98b8339c61d986f}
+      \strng{authornamehash}{1e3f4a9857533d75cea46eb5250c31c2}
+      \strng{authorfullhash}{22b93f792b05ec66089a4ce937eba671}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analytical Methods}
+      \field{month}{06}
+      \field{title}{Amino Acid-Stabilized Luminescent Gold Clusters for Sensing Pterin and its Analogues}
+      \field{year}{2024}
       \field{volume}{16}
       \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D4AY00700J
+      \endverb
+    \endentry
+    \entry{muhammed2008ma}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4fbe6cc9b47add45d989487cb6b69078}{%
+           family={Muhammed},
+           familyi={M\bibinitperiod},
+           given={Habeeb},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fbe6cc9b47add45d989487cb6b69078}
+      \strng{fullhash}{4fbe6cc9b47add45d989487cb6b69078}
+      \strng{bibnamehash}{4fbe6cc9b47add45d989487cb6b69078}
+      \strng{authorbibnamehash}{4fbe6cc9b47add45d989487cb6b69078}
+      \strng{authornamehash}{4fbe6cc9b47add45d989487cb6b69078}
+      \strng{authorfullhash}{4fbe6cc9b47add45d989487cb6b69078}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nano Res}
+      \field{title}{Two distinct fluorescent quantum clusters of gold starting from metallic nanoparticles by pH-dependent ligand etching}
+      \field{year}{2008}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{333\bibrangedash 340}
+      \range{pages}{8}
+      \field{volume}{1}
+      \range{volume}{1}
+    \endentry
+    \entry{https://doi.org/10.1002/chem.201000841}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=4fbe6cc9b47add45d989487cb6b69078}{%
+           family={Muhammed},
+           familyi={M\bibinitperiod},
+           given={Habeeb},
+           giveni={H\bibinitperiod}}}%
+        {{hash=521efd7ae5fa9497a8c4bce1af1d69fd}{%
+           family={Abubaker},
+           familyi={A\bibinitperiod},
+           given={Madathumpady},
+           giveni={M\bibinitperiod}}}%
+        {{hash=904b17bfabdb934cc04d738d8cf636e4}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Pramod\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=433e5e765a669995405d424eef520015}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Samir\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=60a60ccfb2dca2b7533f2bebfe22f823}{%
+           family={Retnakumari},
+           familyi={R\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da307dc831a0dccc58662928ec70dbe0}{%
+           family={Koyakutty},
+           familyi={K\bibinitperiod},
+           given={Manzoor},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d46314b2683abbcd12167008dfd93edd}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Shantikumar},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5b34e08ae29252f57f7117dd7c91710a}{%
+           family={Pradeep},
+           familyi={P\bibinitperiod},
+           given={Thalappil},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1d5e925095348860f0aa9b8d9700d3f3}
+      \strng{authornamehash}{d2ead8be788fb55b7fab27fa2db1487d}
+      \strng{authorfullhash}{ee8cfb475197e206a7e4c10e7af7a507}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemistry – A European Journal}
+      \field{title}{Luminescent Quantum Clusters of Gold in Bulk by Albumin-Induced Core Etching of Nanoparticles: Metal Ion Sensing, Metal-Enhanced Luminescence, and Biolabeling}
+      \field{year}{2010}
+      \field{number}{33}
+      \range{number}{1}
+      \field{pages}{10103\bibrangedash 10112}
+      \range{pages}{10}
+      \field{volume}{16}
+      \range{volume}{1}
+      \keyw{core etching,luminescence,nanoparticles,quantum clusters,sensors}
+    \endentry
+    \entry{pamam-dendrimers}{article}{}
+      \name{author}{2}{}{%
+        {{hash=46b4bcad95069b54d795cc8e150c6b93}{%
+           family={Arima},
+           familyi={A\bibinitperiod},
+           given={Hidetoshi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=70113f1d0ac8f4298e1edee16808ea8b}{%
+           family={Keiichi},
+           familyi={K\bibinitperiod},
+           given={Motoyama},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{912d05ca94f50de86a1d140eae788203}
+      \strng{fullhash}{912d05ca94f50de86a1d140eae788203}
+      \strng{bibnamehash}{912d05ca94f50de86a1d140eae788203}
+      \strng{authorbibnamehash}{912d05ca94f50de86a1d140eae788203}
+      \strng{authornamehash}{912d05ca94f50de86a1d140eae788203}
+      \strng{authorfullhash}{912d05ca94f50de86a1d140eae788203}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{08}
+      \field{title}{Recent Findings Concerning PAMAM Dendrimer Conjugates with Cyclodextrins as Carriers of DNA and RNA}
+      \field{year}{2009}
+      \field{pages}{6346\bibrangedash 6361}
+      \range{pages}{16}
+      \field{volume}{9}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/s90806346
+      \endverb
+    \endentry
+    \entry{dendrimers-AuNCs}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f773f6a7e9854115b81a830a0006964f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Wan\bibnamedelima In},
+           giveni={W\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e6f59c0a46ef2bef6b3e623ad188babd}{%
+           family={Bae},
+           familyi={B\bibinitperiod},
+           given={Yoonjung},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fb2d76fb5684bce57029d2780192d230}{%
+           family={Bard},
+           familyi={B\bibinitperiod},
+           given={Allen\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebed11a11dfbe960e56e520fb0059778}
+      \strng{fullhash}{e34001e08dd21eeb63f7d7126d4e2424}
+      \strng{bibnamehash}{e34001e08dd21eeb63f7d7126d4e2424}
+      \strng{authorbibnamehash}{e34001e08dd21eeb63f7d7126d4e2424}
+      \strng{authornamehash}{ebed11a11dfbe960e56e520fb0059778}
+      \strng{authorfullhash}{e34001e08dd21eeb63f7d7126d4e2424}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{title}{Strong Blue Photoluminescence and ECL from OH-Terminated PAMAM Dendrimers in the Absence of Gold Nanoparticles}
+      \field{year}{2004}
+      \field{number}{27}
+      \range{number}{1}
+      \field{volume}{126}
+      \range{volume}{1}
+    \endentry
+    \entry{10.1186/1556-276X-8-170}{article}{useauthor=false}
+      \name{author}{9}{}{%
+        {{hash=0b8be9667199be795ead5d6b0aa56b61}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=50bd40bd835b34be3e6aa3344d8baa3e}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhijun},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b2da3a489205efa80130dddd7b6d1db6}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhiming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9b5f79a2a2c8a18283bb2e57dce618c2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chunlei},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d97460706ebc793e72b45775f2d0d8f9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiansong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c6a29a1bab7c7e54188aac3832d0f90e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Kan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b3f6d30e7f0fe630941338a5906f8f41}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Guo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=16a1b156e5b597ff5f1fe282d02ad5bd}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f9a834e26737e3932e5f433bf83d2da2}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Daxiang},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{a45d4f6325d207276f9729d1b6360eb5}
+      \strng{authornamehash}{6a6fd9c3558eed534ad27248f94ab32a}
+      \strng{authorfullhash}{86236973e32039826bb36c9e8a8ae21d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanoscale Research Letters}
+      \field{title}{Biomimetic one-pot synthesis of gold nanoclusters nanoparticles for targeted tumor cellular dual-modality imaging}
+      \field{year}{2013}
+      \field{number}{170}
+      \range{number}{1}
+      \field{volume}{8}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1186/1556-276X-8-170
+      \endverb
+    \endentry
+    \entry{Xiaoyu:proline}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=a01ca01c877adcd8048a98145965f622}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={Xiaoyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=0a101ff5ef9061ba8d1cadf32dcec744}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2886390144bbff12cb4ceb7b010c5ed5}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=aa8bf6ed4b9a172e693c4770bc4511df}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=20eac2465e3a3afb64f110b068ffa2c1}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5f59a35243117bcf9f3afc4bfe32d4f5}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Zongxiu},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=eee95eaac8be5a34a026c20dd0e1ddf2}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Huimin},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{81aeabaafd58ec8685bb08a4ca5705ee}
+      \strng{authornamehash}{c8b38ac3dd53299b3beb6340e4917bac}
+      \strng{authorfullhash}{4a5d06ac38eed4472c0a7be9f4738b53}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biosensors and Bioelectronics}
+      \field{title}{Facile one-pot synthesis of l-proline-stabilized fluorescent gold nanoclusters and its application as sensing probes for serum iron}
+      \field{year}{2013}
+      \field{pages}{249\bibrangedash 255}
+      \range{pages}{7}
+      \field{volume}{49}
+      \range{volume}{1}
+    \endentry
+    \entry{shang-bioimaging}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=26ec9fc7d7f63944f2db65719eb3c384}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b03223602e3ce304ce7ad6fb7d7fb465}{%
+           family={Azadfar},
+           familyi={A\bibinitperiod},
+           given={Naghmeh},
+           giveni={N\bibinitperiod}}}%
+        {{hash=89122c047d6787e95bbec7ededa914ca}{%
+           family={Stockmar},
+           familyi={S\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e5f4b0fab4eb0584c78483e7bc35c105}{%
+           family={Send},
+           familyi={S\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1e8c4bd9aee5ceb591886b4f5845adf8}{%
+           family={Trouillet},
+           familyi={T\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d964f159efc208428539cf318d47bd3a}{%
+           family={Bruns},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6cce67385eac4b8e8a9a2ccc0a3b8196}{%
+           family={Gerthsen},
+           familyi={G\bibinitperiod},
+           given={Dagmar},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1d6c5ecb5a9eaac96c732ab66deb4b4a}{%
+           family={Nienhaus},
+           familyi={N\bibinitperiod},
+           given={G.\bibnamedelimi Ulrich},
+           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{813c20156143204a0817cc95be4d0945}
+      \strng{authornamehash}{fd18673d22d6b3257a692be846ca329e}
+      \strng{authorfullhash}{8017d2dcc538714c9df2399e060b8b9b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Small}
+      \field{title}{One-Pot Synthesis of Near-Infrared Fluorescent Gold Clusters for Cellular Fluorescence Lifetime Imaging}
+      \field{year}{2011}
+      \field{number}{18}
+      \range{number}{1}
+      \field{pages}{2614\bibrangedash 2620}
+      \range{pages}{7}
+      \field{volume}{7}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/smll.201100746
+      \endverb
+    \endentry
+    \entry{Lin2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0978a89b29728c446f90b686a1e012f7}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yen-Hsiu},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=b76c1ee83d7a336c4b6bdcee4afaf700}{%
+           family={Tseng},
+           familyi={T\bibinitperiod},
+           given={Wei-Lung},
+           giveni={W\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9216d302bd0ee87ae2058389830fbcfe}
+      \strng{fullhash}{9216d302bd0ee87ae2058389830fbcfe}
+      \strng{bibnamehash}{9216d302bd0ee87ae2058389830fbcfe}
+      \strng{authorbibnamehash}{9216d302bd0ee87ae2058389830fbcfe}
+      \strng{authornamehash}{9216d302bd0ee87ae2058389830fbcfe}
+      \strng{authorfullhash}{9216d302bd0ee87ae2058389830fbcfe}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{Ultrasensitive Sensing of Hg2+ and CH3Hg+ Based on the Fluorescence Quenching of Lysozyme Type VI-Stabilized Gold Nanoclusters}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1021/ac101427y.s001
+      \endverb
+      \verb{urlraw}
+      \verb https://acs.figshare.com/articles/journal_contribution/Ultrasensitive_Sensing_of_Hg_sup_2_sup_and_CH_sub_3_sub_Hg_sup_sup_Based_on_the_Fluorescence_Quenching_of_Lysozyme_Type_VI_Stabilized_Gold_Nanoclusters/2713015
+      \endverb
+      \verb{url}
+      \verb https://acs.figshare.com/articles/journal_contribution/Ultrasensitive_Sensing_of_Hg_sup_2_sup_and_CH_sub_3_sub_Hg_sup_sup_Based_on_the_Fluorescence_Quenching_of_Lysozyme_Type_VI_Stabilized_Gold_Nanoclusters/2713015
+      \endverb
+    \endentry
+    \entry{Durgadas}{article}{}
+      \name{author}{3}{}{%
+        {{hash=670b2ba51e72ed0abc317503bc2654c3}{%
+           family={Durgadas},
+           familyi={D\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=20006310b9d1387b6f80b8a1d73810aa}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5d14ea1a9a7f83005b3f88248a46be22}{%
+           family={Sreenivasan},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{7050e686b04abab28a28aea9af7dd253}
+      \strng{fullhash}{44d3c6ec6a67c838d67f9bf961b5ff18}
+      \strng{bibnamehash}{44d3c6ec6a67c838d67f9bf961b5ff18}
+      \strng{authorbibnamehash}{44d3c6ec6a67c838d67f9bf961b5ff18}
+      \strng{authornamehash}{7050e686b04abab28a28aea9af7dd253}
+      \strng{authorfullhash}{44d3c6ec6a67c838d67f9bf961b5ff18}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analyst}
+      \field{title}{Fluorescent gold clusters as nanosensors for copper ions in live cells}
+      \field{year}{2011}
+      \field{issue}{5}
+      \range{issue}{1}
+      \field{pages}{933\bibrangedash 940}
+      \range{pages}{8}
+      \field{volume}{136}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/C0AN00424C
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/C0AN00424C
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/C0AN00424C
+      \endverb
+    \endentry
+    \entry{parker1968photoluminescence}{book}{}
+      \name{author}{1}{}{%
+        {{hash=321830a16a11bcbc2b9ed36cdf2b3eac}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Cecil\bibnamedelima Allen},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, London, New York}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Publishing Company}%
+      }
+      \strng{namehash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \strng{fullhash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \strng{bibnamehash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \strng{authorbibnamehash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \strng{authornamehash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \strng{authorfullhash}{321830a16a11bcbc2b9ed36cdf2b3eac}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0444407634}
+      \field{note}{xvi, 544 p.}
+      \field{title}{Photoluminescence of solutions: With applications to photochemistry and analytical chemistry}
+      \field{year}{1968}
+    \endentry
+    \entry{eaton1988reference}{article}{}
+      \name{author}{1}{}{%
+        {{hash=26eabb3c3314739d8bd69b3c1125cda2}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={David\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \strng{fullhash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \strng{bibnamehash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \strng{authorbibnamehash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \strng{authornamehash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \strng{authorfullhash}{26eabb3c3314739d8bd69b3c1125cda2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pure and Applied Chemistry}
+      \field{title}{Reference materials for fluorescence measurement}
+      \field{year}{1988}
+      \field{number}{7}
+      \range{number}{1}
+      \field{pages}{1107\bibrangedash 1114}
+      \range{pages}{8}
+      \field{volume}{60}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1351/pac198860071107
+      \endverb
+      \verb{urlraw}
+      \verb https://iupac.org
+      \endverb
+      \verb{url}
+      \verb https://iupac.org
+      \endverb
+    \endentry
+    \entry{Rasulev2012StructuresAS}{inproceedings}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=0752646bb77aa3a3007dfa3872e6cdb2}{%
+           family={Rasulev},
+           familyi={R\bibinitperiod},
+           given={Bakhtiyor\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d1c58a6ce94834636d4a0465c388b77c}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={Marquita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e2d6d3089d1b39b998c7b2d59b797aaa}{%
+           family={Theodore},
+           familyi={T\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c69223384144078c8ed008d58a930559}{%
+           family={Jackman},
+           familyi={J\bibinitperiod},
+           given={Joany},
+           giveni={J\bibinitperiod}}}%
+        {{hash=61cd6e49250d75df0e5ded1186bfcc93}{%
+           family={Leszczynski},
+           familyi={L\bibinitperiod},
+           given={Jerzy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{efa90c3f0edb38bbab2f2a8c83d190b0}
+      \strng{authornamehash}{b1abfeaad66e3d3a2504e3d76e68cf0d}
+      \strng{authorfullhash}{4fac378d87a8cc7f829a9bd504a1cb39}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Structures and Stabilities: Quantum-Chemical Study of Aun (n = 2-2016) Nanoclusters by Extended Huckel and DFT Approaches}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:101540976
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:101540976
+      \endverb
+    \endentry
+    \entry{au-nanoparticles}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=608e312e1669a7fa1e5d3383e0e7da5b}{%
+           family={Söptei},
+           familyi={S\bibinitperiod},
+           given={Balázs},
+           giveni={B\bibinitperiod}}}%
+        {{hash=afc49ebb64cc2bff730667f9b992fc5d}{%
+           family={Naszalyi\bibnamedelima Nagy},
+           familyi={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Livia},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3f0834adb45993ae6ebca6d9c523a0b9}{%
+           family={Baranyai},
+           familyi={B\bibinitperiod},
+           given={Péter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=93ca2c8605e04038cde3ca743b0c050e}{%
+           family={Szabó},
+           familyi={S\bibinitperiod},
+           given={Ildikó},
+           giveni={I\bibinitperiod}}}%
+        {{hash=20a3dc6f4d1edbe7173b4132b2b49d27}{%
+           family={Mezo},
+           familyi={M\bibinitperiod},
+           given={Gabor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=82fdeed3af8a9e491a8a5ee788964e08}{%
+           family={Hudecz},
+           familyi={H\bibinitperiod},
+           given={Ferenc},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bda9d06ea297f2b6303d445e39d397d2}{%
+           family={Bóta},
+           familyi={B\bibinitperiod},
+           given={Attila},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{fb4cd857da48f047cd1af9586e12472a}
+      \strng{authornamehash}{68d3228429c756b7f9fd3da322d25a46}
+      \strng{authorfullhash}{f035d8782c22629e00673d1c8c53e6b4}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gold Bulletin}
+      \field{month}{09}
+      \field{title}{On the selection and design of proteins and peptide derivatives for the production of photoluminescent, red-emitting gold quantum clusters}
+      \field{year}{2013}
+      \field{volume}{46}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s13404-013-0100-2
+      \endverb
+    \endentry
+    \entry{bsa-lifetime}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=3c678a1ef6de3610243fb0b9853c0aaf}{%
+           family={Hada},
+           familyi={H\bibinitperiod},
+           given={Alexandru-Milentie},
+           giveni={A\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=fc38bee7f6c72287a25016baabbbad38}{%
+           family={Craciun},
+           familyi={C\bibinitperiod},
+           given={Ana\bibnamedelima Maria},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=90701af46668b1af0fe2c1f2a2eb099f}{%
+           family={FOCSAN},
+           familyi={F\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=16dba79375ea59ab9607ae5d1608ef04}{%
+           family={Vulpoi},
+           familyi={V\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e7d3073bb6f43bcd06186299431247d}{%
+           family={Borcan},
+           familyi={B\bibinitperiod},
+           given={Larisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a2d402b212802027b779ae6ed6877112}{%
+           family={Astilean},
+           familyi={A\bibinitperiod},
+           given={Simion},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{678f17899f2d098773ea4b346549adf6}
+      \strng{authornamehash}{a824c07dba62de513a13e7051dce6cb6}
+      \strng{authorfullhash}{d54fb856f840531c639f19b687e8cca9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microchimica Acta}
+      \field{month}{08}
+      \field{title}{Glutathione-capped gold nanoclusters as near-infrared-emitting efficient contrast agents for confocal fluorescence imaging of tissue-mimicking phantoms}
+      \field{year}{2022}
+      \field{volume}{189}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s00604-022-05440-0
+      \endverb
+    \endentry
+    \entry{tyr-lifetime}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=3a62691ce64b66b6a5014c5cff9fab98}{%
+           family={Ungor},
+           familyi={U\bibinitperiod},
+           given={Ditta},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c84e02d39df6d74c2a4ac3abfa8889c6}{%
+           family={Bélteki},
+           familyi={B\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e6880cde8f728e2040d05264cdbf2225}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={Krisztián},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7a9192cfe804a8da990b775eab9aeee5}{%
+           family={Dömötör},
+           familyi={D\bibinitperiod},
+           given={Orsolya},
+           giveni={O\bibinitperiod}}}%
+        {{hash=a5ecd9d2685e5a4dc6c364f69be0a9ff}{%
+           family={Csapó},
+           familyi={C\bibinitperiod},
+           given={Edit},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{39a243c4d7dd6ac0456d06bd9b5d5993}
+      \strng{authornamehash}{56af78b949bddb56bfa94b8ee5761e91}
+      \strng{authorfullhash}{7362e20df09e2a8e4ff74a88a9d3b0cf}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{issn}{1422-0067}
+      \field{journaltitle}{International Journal of Molecular Sciences}
+      \field{title}{Fluorescence Quenching of Tyrosine-Ag Nanoclusters by Metal Ions: Analytical and Physicochemical Assessment}
+      \field{year}{2022}
+      \field{number}{17}
+      \range{number}{1}
+      \field{volume}{23}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/ijms23179775
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1422-0067/23/17/9775
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1422-0067/23/17/9775
+      \endverb
+    \endentry
+    \entry{sanpin_1_2_3685_21}{standard}{}
+      \list{institution}{1}{%
+        {Роспотребнадзор}%
+      }
+      \list{location}{1}{%
+        {Москва}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{langid}{russian}
+      \field{note}{Приказ Минздрава России от 30.12.2020 №~1036н}
+      \field{title}{{САНПИН}~1.2.3685-21. {Санитарные правила и нормы по обеспечению безопасности при производстве, хранении и перевозке продукции, подлежащей обязательному техническому регулированию}}
+      \field{year}{2021}
+      \field{number}{1.2.3685\bibrangedash 21}
+      \range{number}{-1}
+      \verb{urlraw}
+      \verb https://www.rospotrebnadzor.ru/documents/1_2_3685_21/
+      \endverb
+      \verb{url}
+      \verb https://www.rospotrebnadzor.ru/documents/1_2_3685_21/
+      \endverb
     \endentry
   \enddatalist
-  \missing{Baksi:2013}
-  \missing{Chakraborty:2017}
-  \missing{Ding:2021}
-  \missing{Kawasaki:2011}
-  \missing{Song:2016}
-  \missing{Xavier:2010}
-  \missing{Xie:2009}
-  \missing{find_ref}
 \endrefsection
 \endinput
 
